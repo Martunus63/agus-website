@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(php *)",
+      "Bash(mkdir *)",
+      "Bash(cp *)",
+      "Bash(composer *)",
+      "Bash(zip *)",
+      "Bash(git init)",
+      "Bash(git add *)"
+    ]
+  },
+  "$version": 3
+}
